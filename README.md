@@ -8,4 +8,4 @@
 -   **Airbnb Styling** for React
 -   **.VsCode** settings for auto-format on save.
 
-These are all configured and ready to go.
+These are all configured and ready to go. Run `npm install` then `npm start`.
